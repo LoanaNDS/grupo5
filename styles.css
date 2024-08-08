@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(228, 243, 252);
+    background-color: rgb(255, 255, 165);
 }
 
 .image{
@@ -16,4 +16,8 @@ body {
     padding: 5px;
     border-radius: 5px;
     box-shadow: 2px 3px #888888;
+}
+
+a:hover{
+ color: blue;
 }
